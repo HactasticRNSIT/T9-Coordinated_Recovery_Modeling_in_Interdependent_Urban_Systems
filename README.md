@@ -17,7 +17,7 @@ The platform ingests real-time or synthetic sensor data, models inter-system dep
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-org/urbansync-ai.git
+git clone https://github.com/HactasticRNSIT/T9-Coordinated_Recovery_Modeling_in_Interdependent_Urban_Systems.git
 cd urbansync-ai
 
 # Start all services with Docker Compose
